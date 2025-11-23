@@ -1,10 +1,10 @@
-# 📚 Library Management System
+# Library Management System
 
 A comprehensive Java-based Library Management System designed to automate and streamline library operations including book management, member registration, and transaction processing.
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This Library Management System is a desktop application built using Core Java that helps librarians efficiently manage:
 - Book inventory and cataloging
@@ -17,39 +17,39 @@ The system uses a menu-driven console interface and file-based storage for data 
 
 ---
 
-## ✨ Features
+## Features
 
-### 📖 Book Management
-- ➕ Add new books to the library inventory
-- ✏️ Update existing book details
-- 🗑️ Remove books from the system
-- 🔍 Search books by title, author, category, or ISBN
-- 📋 View all available books
-- 📊 Track book availability and quantities
+### Book Management
+-  Add new books to the library inventory
+-  Update existing book details
+-  Remove books from the system
+-  Search books by title, author, category, or ISBN
+-  View all available books
+-  Track book availability and quantities
 
-### 👥 Member Management
-- 📝 Register new library members
-- ✏️ Update member information
-- 🔍 Search and view member details
-- 📚 View member borrowing history
-- 📊 Track active borrowings per member
+### Member Management
+- Register new library members
+-  Update member information
+-  Search and view member details
+-  View member borrowing history
+-  Track active borrowings per member
 
-### 💼 Transaction Management
-- 📤 Issue books to members with automatic due date calculation
-- 📥 Process book returns
-- 💰 Automatic fine calculation for overdue books (₹5 per day)
-- 📜 View complete transaction history
-- ⚠️ Track and report overdue books
-- 📊 Generate transaction reports
+### Transaction Management
+-  Issue books to members with automatic due date calculation
+-  Process book returns
+-  Automatic fine calculation for overdue books (₹5 per day)
+-  View complete transaction history
+-  Track and report overdue books
+-  Generate transaction reports
 
-### 🔐 Authentication
+###  Authentication
 - Admin login system
 - Secure access control
 - Password-protected operations
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** Java (JDK 8+)
 - **UI:** Console-based menu interface
@@ -60,7 +60,7 @@ The system uses a menu-driven console interface and file-based storage for data 
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher
@@ -84,7 +84,7 @@ java Main
 
 ---
 
-## 📖 How to Use
+## How to Use
 
 ### Main Menu Options
 
@@ -139,7 +139,7 @@ Choose an option:
 
 ---
 
-## 📊 Sample Data
+## Sample Data
 
 The system comes with sample data including:
 - **10 Books** across various categories (Fiction, Science, History, Technology)
@@ -148,17 +148,17 @@ The system comes with sample data including:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Manual Testing Checklist
-- ✅ Add, update, remove books
-- ✅ Register and update members
-- ✅ Issue books and verify availability update
-- ✅ Return books and verify fine calculation
-- ✅ Search functionality for books and members
-- ✅ Data persistence across application restarts
-- ✅ Error handling for invalid inputs
-- ✅ Admin authentication
+-  Add, update, remove books
+-  Register and update members
+-  Issue books and verify availability update
+-  Return books and verify fine calculation
+-  Search functionality for books and members
+-  Data persistence across application restarts
+-  Error handling for invalid inputs
+-  Admin authentication
 
 ### Test Scenarios
 1. Issue a book and return after due date - verify fine calculation
@@ -168,7 +168,7 @@ The system comes with sample data including:
 
 ---
 
-## 🎨 Design Patterns Used
+## Design Patterns Used
 
 - **Model-View-Controller (MVC):** Separation of concerns
 - **Service Layer Pattern:** Business logic encapsulation
@@ -177,48 +177,48 @@ The system comes with sample data including:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
-- 📱 GUI interface using JavaFX or Swing
-- 🗄️ Database integration (MySQL/PostgreSQL)
-- 📧 Email notifications for due dates
-- 📊 Advanced analytics and reporting
-- 🔍 Barcode scanning for books
-- 🌐 Web-based interface
-- 📱 Mobile app integration
-- 🔔 SMS reminders for overdue books
+-  GUI interface using JavaFX or Swing
+-  Database integration (MySQL/PostgreSQL)
+-  Email notifications for due dates
+-  Advanced analytics and reporting
+-  Barcode scanning for books
+-  Web-based interface
+-  Mobile app integration
+-  SMS reminders for overdue books
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Your Name**  
-Student ID: YOUR_ID  
+**Akshat Sharma**  
+Registration No.: 24BSA10007
 VIT Bhopal University  
 Course: Programming in Java  
 
 ---
 
-## 📝 License
+## License
 
 This project is created for educational purposes as part of the Programming in Java course at VIT Bhopal University.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-- Course Instructor: [Instructor Name]
+- Course Instructor: Pramod Bhat
 - VIT Bhopal University
 - Java Documentation and Community
 
 ---
 
-## 📞 Contact
+## Contact
 
 For any queries regarding this project:
-- Email: your.email@vitbhopal.ac.in
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: akshat.24bsa10007@vitbhopal.ac.in
+- GitHub: Akshat24BSA10007(https://github.com/Akshat24BSA10007)
 
 ---
 
-**Last Updated:** November 23, 2025
+**Last Updated:** November 24, 2025
