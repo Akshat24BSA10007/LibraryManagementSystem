@@ -70,7 +70,7 @@ The system uses a menu-driven console interface and file-based storage for data 
 ### Steps to Run
 
 1. **Clone the repository**
-git clone https://github.com/YOUR_USERNAME/LibraryManagementSystem.git cd LibraryManagementSystem
+git clone https://github.com/Akshat24BSA10007/LibraryManagementSystem.git cd LibraryManagementSystem
 
 2. **Compile the project**
 cd src javac Main.java models/.java services/.java utils/*.java
