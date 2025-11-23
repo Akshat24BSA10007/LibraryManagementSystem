@@ -1,0 +1,6 @@
+M001|Rahul Sharma|rahul.sharma@vitbhopal.ac.in|9876543210|STUDENT|2025-11-23|0|3
+M002|Priya Patel|priya.patel@vitbhopal.ac.in|9876543211|STUDENT|2025-11-23|0|3
+M003|Dr. Amit Kumar|amit.kumar@vitbhopal.ac.in|9876543212|FACULTY|2025-11-23|0|5
+M004|Sneha Verma|sneha.verma@vitbhopal.ac.in|9876543213|STUDENT|2025-11-23|0|3
+M005|Prof. Suresh Gupta|suresh.gupta@vitbhopal.ac.in|9876543214|FACULTY|2025-11-23|0|5
+

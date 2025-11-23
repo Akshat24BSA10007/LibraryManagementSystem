@@ -1,0 +1,11 @@
+B001|Introduction to Algorithms|Thomas H. Cormen|9780262033848|Computer Science|5|5
+B002|Clean Code|Robert C. Martin|9780132350884|Programming|3|3
+B003|The Great Gatsby|F. Scott Fitzgerald|9780743273565|Fiction|4|4
+B004|Sapiens|Yuval Noah Harari|9780062316097|History|2|2
+B005|Atomic Habits|James Clear|9780735211292|Self-Help|3|3
+B006|Java: The Complete Reference|Herbert Schildt|9781260440232|Programming|4|4
+B007|1984|George Orwell|9780451524935|Fiction|3|3
+B008|Thinking, Fast and Slow|Daniel Kahneman|9780374533557|Psychology|2|2
+B009|The Lean Startup|Eric Ries|9780307887894|Business|3|3
+B010|Operating System Concepts|Abraham Silberschatz|9781118063330|Computer Science|5|5
+
